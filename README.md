@@ -1,1 +1,1 @@
-# Logistic_Seq_Lab2
+This contains the file with code for Problem 3 in Lab 2.
